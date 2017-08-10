@@ -1,0 +1,55 @@
+body {
+	background-color: black;
+}
+
+#pic1{
+	margin: auto;
+	width: 338px;
+	height: 400px;
+	border-radius: 20%;
+	float: left;
+	padding-left: 20px;
+}
+
+#pic2 {
+	padding-left: 50px;
+	float: right;
+}
+
+dl {
+	text-indent: 40px;
+	color: white;
+}
+
+dt {
+	font-weight: bold;
+	font-size: 22px;
+	text-transform: uppercase;
+}
+
+dd {
+	font-style: italic;
+	color: gray;
+	font-size: 18px;
+}
+
+.info {
+    margin: auto;
+    padding: 10px;
+}
+
+.head {
+	background-color: gray;
+	padding-top: 40px;
+	padding-right: 40px;
+	font-size: 50px;
+	text-align: right;
+	height: 35px;
+  	line-height: 0px;
+  	text-align: right;
+}
+
+.main {
+	width: 100px;
+	background-color: gray;
+}
