@@ -1,6 +1,9 @@
 body{
 	background-image: url("a.jpg");
-	
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
 }
 
 .main{
