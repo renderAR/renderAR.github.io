@@ -1,0 +1,42 @@
+h1{
+	text-align: center;
+	/*border-radius: 25px;
+    background: white;
+    padding: 20px; 
+    width: 200px;
+    height: 20px; 
+    margin-left: 250px;*/
+   	color: #D1D1D1;
+   	font-size:40px;
+}
+h4{
+	font-size:24px;
+	display:inline;
+	color: #D1D1D1;
+}
+
+p{
+	margin-left: 20px;
+	font-size:20px;
+	color: #D1D1D1;
+}
+
+h6{
+	display:inline;
+	margin-left: 20px;
+	font-size:22px;
+	border-style: groove;
+	border-radius: 2px;
+	color: #D1D1D1;
+}
+
+body {
+    background-color: #222233;
+}
+
+img{
+	border-radius: 25px;
+	background-position: right top;
+    width: 450px;
+    height: 400px; 
+}
