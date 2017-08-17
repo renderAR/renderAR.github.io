@@ -1,0 +1,58 @@
+
+/*Author: Francis T. Saylon
+Section: CMSC 100 EF-4L 
+Date and Time Created: 1:20 PM, August 10. 2017
+Credits to: CMSC 2 Project Groupmates since I used our codes
+*/
+
+body {
+	background-color: white;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: contain;
+	}
+
+
+.body {
+	margin:0;
+	}
+
+#nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    height:80px;
+    font-family: Century Gothic,sans;
+    z-index:1;
+	}
+
+.nb {
+    float: left;
+    display: inline-block;
+    left: 0;
+    right:0;
+    margin:0;
+    text-align:center;
+}
+.nb a {
+    display: inline-block;
+    left: 0;
+    right: 0;
+    margin:0;
+    color: white;
+    text-align: center;
+    padding: 30px 26px;
+    text-decoration: none;
+}
+
+.nb a:hover:not(.active) {
+    box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.1);
+}
+
+.active {
+    background-color:gray;
+}
