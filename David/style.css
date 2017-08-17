@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+body {
+  background-color: #471100;
+}
+
+.card {
+  height: 1500px;
+  max-width: 1600px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-color: #ede7e1;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  width: 40%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+</style>
+</html>
