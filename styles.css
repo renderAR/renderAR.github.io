@@ -1,0 +1,42 @@
+body{
+	background-image: url("a.jpg");
+	
+}
+
+.main{
+	margin-top: 12%;
+}
+.polaroid{
+	background-color: white;
+	border-style: solid;
+	border-color: black;
+	width: 250px;
+	height: 350px;
+	float:left;
+	margin: 20px;
+	border-radius: 10px;
+	border-width: 2.5px;
+
+}
+
+.frame{
+	margin:2.5%;
+	width:233px;
+	height:265px;
+}
+
+.name{
+	width: 233px;
+	height: 15%;
+	margin:2.5%;
+	padding-top: 5px;
+	font-family: Arial;
+	text-align: center;
+	font-size: 25px;
+
+}
+
+img{
+	width:233px;
+	height:265px;
+}
